@@ -11,7 +11,7 @@ MobilenetV3 implementation has taken from [pytorch-image-models](https://github.
 
 Pretrained models:
 * resnet50: to-be-published
-* mobilenetv3: to-be-published
+* mobilenetv3: [link](https://yadi.sk/d/zUYVP-y8aQ14Hw) 
 
 Model expects 224x224 image and outputs age_logits (bs x 8), gender_logits (bs x 3)
 age logits - probability of image for each of 8 groups: 0-2, 3-6, 8-13, 15-20, 22-32, 34-43, 45-53, 55-100
